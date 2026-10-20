@@ -2,6 +2,10 @@
 
 Add screenshot, window, mouse, keyboard, scrolling, and dragging tools to the current Codex desktop app on Linux. This is a community MCP server, not an OpenAI product. It installs into your user account without modifying the app.
 
+## Set up another machine
+
+For computer-use plus portable SSH profiles and health checks, see [the workstation setup guide](SETUP.md). Account sign-ins and Android pairing remain interactive; no credentials are stored in the repository.
+
 ## Install on the laptop
 
 Run this in a terminal **on the laptop**, as your normal desktop user:

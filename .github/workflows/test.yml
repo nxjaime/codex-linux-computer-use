@@ -13,6 +13,6 @@ jobs:
         with:
           node-version: '22'
       - name: Verify Bash syntax
-        run: bash -n install.sh
+        run: bash -n install.sh setup.sh
       - name: Isolated installer and protocol tests
         run: python3 -m unittest discover -s tests -v
